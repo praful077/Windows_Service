@@ -1,0 +1,23 @@
+C:\my\Windows servies project\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+C:\my\Windows servies project\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe
+C:\my\Windows servies project\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.pdb
+C:\my\Windows servies project\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.AssemblyReference.cache
+C:\my\Windows servies project\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.SuggestedBindingRedirects.cache
+C:\my\Windows servies project\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+C:\my\Windows servies project\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.GenerateResource.cache
+C:\my\Windows servies project\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.CoreCompileInputs.cache
+C:\my\Windows servies project\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.exe
+C:\my\Windows servies project\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.pdb
+C:\my\demo\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+C:\my\demo\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe
+C:\my\demo\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.pdb
+C:\my\demo\MyWindowsService\MyWindowsService\bin\Debug\DocumentFormat.OpenXml.dll
+C:\my\demo\MyWindowsService\MyWindowsService\bin\Debug\DocumentFormat.OpenXml.xml
+C:\my\demo\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.AssemblyReference.cache
+C:\my\demo\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.SuggestedBindingRedirects.cache
+C:\my\demo\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+C:\my\demo\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.GenerateResource.cache
+C:\my\demo\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.CoreCompileInputs.cache
+C:\my\demo\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.CopyComplete
+C:\my\demo\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.exe
+C:\my\demo\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.pdb
